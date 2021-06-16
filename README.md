@@ -1,16 +1,16 @@
-### Hi there 👋
+###
 
-<!--
-**koreahong/koreahong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# To be Data Analyst
 
-Here are some ideas to get you started:
+## done
+1. bigdata 6months cousrse
+2. competetion
+    - dacon
+      - 스타2 예측
+      - 제주 신용카드
+3. project
+    - 피파온라인4 선수추천 웹서비스
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+4. book
+    - 파이썬 머신러닝 완벽가이드
+    
