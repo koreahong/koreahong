@@ -5,13 +5,13 @@
 - Bigdata Education(19.05~19.11)
 - Several Competitions
     - Dacon
-        - 
-    - Seoul Bigdata campus
+        - [행동분석 예측(2020.03) 17등](https://github.com/koreahong/statcraft2_analyst.git)
+        - [주차수요 예측(2021.09) 33등(21.09.29 기준)](https://github.com/koreahong/parking_lot_analysis.git)
+    - Seoul Bigdata campus(우수상)
     
 ### Interest
-- log data analyst
-- Machine Learing Operation
-
+- data analyst
+- Machine Learning Operation
 
 <div align=left>
 
